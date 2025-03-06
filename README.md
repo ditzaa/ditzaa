@@ -1,6 +1,3 @@
-Hi 👋 My name is Adrian Mitu
-============================
-
 Software Developer
 ------------------
 
@@ -16,12 +13,8 @@ Master's student in E-Business with a strong focus on software development in Ja
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/ditzaa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/22655540/ditzaa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ditzaa"><img src="https://github-readme-stats.vercel.app/api?username=ditzaa&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ditzaa's GitHub stats" /></a>
+<a href="http://www.github.com/"><img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="'s GitHub stats" /></a>
